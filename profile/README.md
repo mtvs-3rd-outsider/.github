@@ -98,13 +98,13 @@
 
 ## 👟 이렇게 진행해요.
 
-#### 1️⃣ [기획과 이벤트 스토밍]()
+#### 1️⃣ [기획과 이벤트 스토밍](https://github.com/mtvs-3rd-outsider/.github/wiki/1.-%EA%B8%B0%ED%9A%8D-%EB%B0%8F-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9D%B4%ED%95%91)
 
-#### 2️⃣ [컨벤션 및 깃 프로젝트 관리]()
+#### 2️⃣ [컨벤션 및 깃 프로젝트 관리](https://github.com/mtvs-3rd-outsider/master-of-prediction/wiki/2.-%EC%BB%A8%EB%B2%A4%EC%85%98-%EB%B0%8F-%EA%B9%83-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC)
 
 #### 3️⃣ [테스트 자동화와 Secrets 관리]()
 (해당 내용은 추후에 추가적으로 작성 예정)
 
-#### 4️⃣ [데이터베이스 설계와 MySQL]()
+#### 4️⃣ [데이터베이스 설계](https://github.com/mtvs-3rd-outsider/master-of-prediction/wiki/3.-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%84%A4%EA%B3%84)
 
 <br>
