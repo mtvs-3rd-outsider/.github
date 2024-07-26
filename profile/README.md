@@ -102,9 +102,6 @@
 
 #### 2️⃣ [컨벤션 및 깃 프로젝트 관리](https://github.com/mtvs-3rd-outsider/master-of-prediction/wiki/2.-%EC%BB%A8%EB%B2%A4%EC%85%98-%EB%B0%8F-%EA%B9%83-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC)
 
-#### 3️⃣ [테스트 자동화와 Secrets 관리]()
-(해당 내용은 추후에 추가적으로 작성 예정)
-
-#### 4️⃣ [데이터베이스 설계](https://github.com/mtvs-3rd-outsider/master-of-prediction/wiki/3.-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%84%A4%EA%B3%84)
+#### 3️⃣ [데이터베이스 설계](https://github.com/mtvs-3rd-outsider/master-of-prediction/wiki/3.-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%84%A4%EA%B3%84)
 
 <br>
