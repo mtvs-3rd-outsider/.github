@@ -59,7 +59,7 @@
 
 ## 🔻 Repository
 
-> ⚙️ **[BackEnd Repository]([https://github.com/mtvs-3rd-outsider](https://github.com/mtvs-3rd-outsider/master-of-prediction))**
+> ⚙️ **[BackEnd Repository](https://github.com/mtvs-3rd-outsider/master-of-prediction)**
 <br>
 
 > ⚙️ **[Team Notion](https://www.notion.so/ohgiraffers/572fe06c07714028b3f9a834d6726c03)**
