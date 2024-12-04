@@ -22,7 +22,7 @@
 <br><br/>
 
 ### 🎲소통의 장 제공
-✔️ 다른 사용자와 **댓글 및 답글**을 통해 소통할 수 있는 **소통의 장**을 제공합니다. 사용자는 다른 사용자와의 소통뿐만 아니라, 경기 예측에 대한 **정보를 교환**하고, 서로의 **전략을 공유**할 수 있습니다.
+✔️ 다른 사용자와 **게시글, DM, 댓글, 답글**을 통해 소통할 수 있는 **소통의 장**을 제공합니다. 사용자는 다른 사용자와의 소통뿐만 아니라, 경기 예측에 대한 **정보를 교환**하고, 서로의 **전략을 공유**할 수 있습니다.
 <br><br/>
 
 ### 🎲랭킹 시스템을 통한 성취감
@@ -59,10 +59,19 @@
 
 ## 🔻 Repository
 
-> ⚙️ **[BackEnd Repository](https://github.com/mtvs-3rd-outsider/master-of-prediction)**
+> ⚙️ **[BackEnd Repository](https://github.com/mtvs-3rd-outsider/master-of-prediction-backend)**
 <br>
 
-> ⚙️ **[Team Notion](https://www.notion.so/ohgiraffers/572fe06c07714028b3f9a834d6726c03)**
+> ⚙️ **[Frontend Repository](https://github.com/mtvs-3rd-outsider/master-of-prediction-frontend)**
+<br>
+
+## 🔻Brainstorming
+
+> ⚙️ **[Miro](https://miro.com/welcomeonboard/dmlFNnJQVkp2bDY3TmQzeEdnVW1VMVltelBPVHdCVUkwWGN5emNlT2tLVFQ1WWFJSEZwTCtYZUhTYlRiVDRibGJaZ1dJVjBreGMxMUluZlR0QS81K3hTL0xhMXdhVFZ4aWpqNjhTaWE5VnJwYTNiUkNWNHZodFBJTm9sb3RqNWEhZQ==?share_link_id=571046767691)**
+<br>
+
+> ⚙️ **[figma](https://www.figma.com/design/ZEbwRUqcC9Ym7gwuVBXxK0/%EC%98%88%EC%B8%A1%EC%9D%98-%EB%8B%AC%EC%9D%B8?node-id=0-1&m=dev&t=s4SNbD5QaeiBhXdF-1)**
+
 
 <br>
 
@@ -75,13 +84,9 @@
       <td align="center"><a href="https://github.com/jeonjinhyun"><img src="https://github.com/jeonjinhyun.png" width="100px;" alt=""/><br /><b>전진현</b></a><br /></td>
       <td align="center"><a href="https://github.com/tripleyoung"><img src="https://github.com/tripleyoung.png" width="100px;" alt=""/><br /><b>윤여원</b></a><br /></td>
       <td align="center"><a href="https://github.com/apfp77"><img src="https://github.com/apfp77.png" width="100px;" alt=""/><br /><b>김영규</b></a><br /></td>
-      <td align="center"><a href="https://github.com/isaiahIM"><img src="https://github.com/isaiahIM.png" width="100px;" alt=""/><br /><b>임혁진</b></a><br /></td>
-      <td align="center"><a href="https://github.com/hyomyeong999"><img src="https://github.com/hyomyeong999.png" width="100px;" alt=""/><br /><b>안효명</b></a><br /></td>
     </tr>
     <tr>
       <td align="center">팀장</td>
-      <td align="center">팀원</td>
-      <td align="center">팀원</td>
       <td align="center">팀원</td>
       <td align="center">팀원</td>
     </tr>
@@ -95,6 +100,8 @@
           <td align="center"><a href="https://github.com/daekwon2000 "><img src="https://github.com/daekwon2000.png" width="100px;" alt=""/><br /><b>고대권</b></a><br /></td>
           <td align="center"><a href="https://github.com/otw7917"><img src="https://github.com/otw7917.png" width="100px;" alt=""/><br /><b>오택원</b></a><br /></td>
           <td align="center"><a href="https://github.com/pyoya1123"><img src="https://github.com/pyoya1123.png" width="100px;" alt=""/><br /><b>전성표</b></a><br /></td>
+          <td align="center"><a href="https://github.com/isaiahIM"><img src="https://github.com/isaiahIM.png" width="100px;" alt=""/><br /><b>임혁진</b></a><br /></td>
+          <td align="center"><a href="https://github.com/hyomyeong999"><img src="https://github.com/hyomyeong999.png" width="100px;" alt=""/><br /><b>안효명</b></a><br /></td>
      </tr>
   </tbody>
 </table>
@@ -102,7 +109,7 @@
 <br/>
 
 
-
+<!--
 
 ## 🏆 이렇게 진행해요.
 
@@ -113,3 +120,4 @@
 #### 3️⃣ [데이터베이스 설계](https://github.com/mtvs-3rd-outsider/master-of-prediction/wiki/3.-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%84%A4%EA%B3%84)
 
 <br>
+-->
