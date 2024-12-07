@@ -54,7 +54,9 @@
 
 </br>
 
+## 🔻 Service
 
+> ⚙️ **[Site](https://app.master-of-prediction.shop/ko)**
 <br>
 
 ## 🔻 Repository
